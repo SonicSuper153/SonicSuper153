@@ -17,19 +17,6 @@ I’m passionate about building **AI Agents, RAG pipelines, and LLM-powered appl
 * 💡 I love turning research papers into production-ready tools
 * 🎯 Goal: Build scalable, intelligent systems that feel like magic ✨
 
----
-
-## 🚀 Featured Projects
-
-| 🔗 Project                          | 📝 Description                                           | 🔧 Tech               |
-| ----------------------------------- | -------------------------------------------------------- | --------------------- |
-| [**Code Converter LLM**](#)         | Converts Python ↔ C++ code with a fine-tuned LLaMA model | LLaMA, LoRA, Python   |
-| [**Study Timer App**](#)            | Task-based timer with combined time tracking             | React, TailwindCSS    |
-| [**Image-to-Text Model**](#)        | Basic OCR pipeline for image understanding               | Python, Hugging Face  |
-| [**GenAI Title Generator**](#)      | AI that creates trendy titles from topic pointers        | OpenAI API, Streamlit |
-| [**Pharmacy Management System**](#) | SRS, DFD, ERD & working prototype                        | Django, SQL           |
-
----
 
 ## 🧩 Skills & Tech Stack
 
