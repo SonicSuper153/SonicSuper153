@@ -1,5 +1,3 @@
-Great! Let’s make you a **killer GitHub portfolio** that screams *AI engineer, RAG expert, full-stack AI dev*.
-Here’s a first draft for your `README.md` (your GitHub profile landing page):
 
 ---
 
